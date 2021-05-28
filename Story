@@ -7,3 +7,9 @@ Hello World, I am computer testing my parts:
  Scanning....
  Scan finished:
   Error: Couldn't identify file 3
+
+  scan solution : Change name file_3
+
+  File renamed to file_3
+  
+  Rescanning...
